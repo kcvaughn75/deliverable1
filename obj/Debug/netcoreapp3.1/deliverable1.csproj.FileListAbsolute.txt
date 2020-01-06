@@ -1,0 +1,11 @@
+C:\Users\artis_000\source\repos\deliverable1\deliverable1\bin\Debug\netcoreapp3.1\deliverable1.exe
+C:\Users\artis_000\source\repos\deliverable1\deliverable1\bin\Debug\netcoreapp3.1\deliverable1.deps.json
+C:\Users\artis_000\source\repos\deliverable1\deliverable1\bin\Debug\netcoreapp3.1\deliverable1.runtimeconfig.json
+C:\Users\artis_000\source\repos\deliverable1\deliverable1\bin\Debug\netcoreapp3.1\deliverable1.runtimeconfig.dev.json
+C:\Users\artis_000\source\repos\deliverable1\deliverable1\bin\Debug\netcoreapp3.1\deliverable1.dll
+C:\Users\artis_000\source\repos\deliverable1\deliverable1\bin\Debug\netcoreapp3.1\deliverable1.pdb
+C:\Users\artis_000\source\repos\deliverable1\deliverable1\obj\Debug\netcoreapp3.1\deliverable1.csprojAssemblyReference.cache
+C:\Users\artis_000\source\repos\deliverable1\deliverable1\obj\Debug\netcoreapp3.1\deliverable1.AssemblyInfoInputs.cache
+C:\Users\artis_000\source\repos\deliverable1\deliverable1\obj\Debug\netcoreapp3.1\deliverable1.AssemblyInfo.cs
+C:\Users\artis_000\source\repos\deliverable1\deliverable1\obj\Debug\netcoreapp3.1\deliverable1.dll
+C:\Users\artis_000\source\repos\deliverable1\deliverable1\obj\Debug\netcoreapp3.1\deliverable1.pdb
